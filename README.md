@@ -1,1 +1,3 @@
-Ref: https://github.com/zukahai/confess-crush
+- Ref: https://github.com/zukahai/confess-crush
+- Git Remote: https://github.com/VMHDev/others_crush
+- Running: https://vmhdev.github.io/others_crush/
